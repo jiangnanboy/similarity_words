@@ -5,7 +5,8 @@ This project is mainly used to calculate the relevance between words,such as wor
 ### Author:yan.shi
 ### E-mail:2229029156@qq.com
 ****
-###data
+### ata
+这里使用红楼梦中的一些人物的数据计算相关人物,并利用gephi作网络图
 
 Source|Target|Weight|Type
 | ---------- |:-----------:| -------------------:| :-----------:|
@@ -74,6 +75,6 @@ Source|Target|Weight|Type
 |史湘云|薛宝琴|0.9995867013931274|undirected|
 |史湘云|翠墨|0.9995480179786682|undirected|
 
-###gephi graph
+### gephi graph
 ![](https://github.com/jiangnanboy/similarity_words/result/gephi.png)
 
