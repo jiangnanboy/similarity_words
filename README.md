@@ -77,5 +77,5 @@ Source|Target|Weight|Type
 
 ### graph
 
-![image](https://github.com/jiangnanboy/similarity_words/result/peoplerelation.png)
+![image]{(https://github.com/jiangnanboy/similarity_words/result/peoplerelation.png)}
 
