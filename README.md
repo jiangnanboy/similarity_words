@@ -76,5 +76,6 @@ Source|Target|Weight|Type
 |史湘云|翠墨|0.9995480179786682|undirected|
 
 ### graph
+
 ![image](https://github.com/jiangnanboy/similarity_words/result/gephi.png)
 
